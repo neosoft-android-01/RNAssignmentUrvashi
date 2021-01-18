@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/RNAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNAssignment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNAssignment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1490016697/RNAssignment.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1490016697/RNAssignment.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1330218690/RNAssignment.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1330218690/RNAssignment.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-710267568/RNAssignment.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-710267568/RNAssignment.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/962254366/RNAssignment.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/962254366/RNAssignment.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2083505625/RNAssignment.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2083505625/RNAssignment.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-18886913/RNAssignment.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-18886913/RNAssignment.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1429937398/RNAssignment.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1429937398/RNAssignment.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-294234280/RNAssignment.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-294234280/RNAssignment.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
